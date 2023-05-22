@@ -1,2 +1,4 @@
 # -Flame09-LeetCode-Solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+This in this Github repository I shall post Daily LeetCode Challenges.
+Happy Coding!!
+
